@@ -1,0 +1,7 @@
+{
+  "name": "Digital MAPSI SD Kecamatan Kragan",
+  "description": "Sistem Manajemen Perlombaan MAPSI SD Digital dengan fitur pendaftaran, kartu peserta, penilaian, dan pengumuman.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
